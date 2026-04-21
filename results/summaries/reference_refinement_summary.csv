@@ -1,0 +1,6 @@
+"truncation_level","n","mean_abs_diff","median_abs_diff","max_abs_diff","share_gt_1e6","elapsed_seconds","region_scope"
+300,480,1.5605056594851e-06,0,0.000522850834141053,0.0104166666666667,0.11,"primary_benchmark"
+400,480,2.65349404486119e-08,0,1.02974193847416e-05,0.00416666666666667,0.09,"primary_benchmark"
+500,480,3.73169584122479e-10,0,1.6165177285643e-07,0,0.11,"primary_benchmark"
+700,480,0,0,0,0,0.09,"primary_benchmark"
+900,480,0,0,0,0,0.11,"primary_benchmark"

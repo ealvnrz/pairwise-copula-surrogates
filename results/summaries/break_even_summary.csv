@@ -1,0 +1,3 @@
+"context","method","offline_seconds","online_seconds","per_run_saving_seconds","break_even_runs"
+"practical_simulation_n120","spline",1.41,2.34380000000001,12.9832,1
+"practical_simulation_n120","chebyshev",0.31,1.77479999999999,13.5522,1

@@ -1,0 +1,4 @@
+"context","method","lambda_min","lambda_max","condition_number"
+"reduced_benchmark","reference",2.11654073588226,244.623651121437,115.577105119816
+"reduced_benchmark","spline",4.53690782415299,271.490035415231,59.840324277674
+"reduced_benchmark","chebyshev",4.58054777827333,281.661513452078,61.4907926052136

@@ -1,0 +1,4 @@
+"method","table_build_seconds","fit_seconds","total_offline_seconds","practical_online_seconds"
+"reference",0,0,0,15.327
+"spline",0.72,0.69,1.41,2.34380000000001
+"chebyshev",0.22,0.0900000000000001,0.31,1.77479999999999

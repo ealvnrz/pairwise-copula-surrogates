@@ -1,0 +1,3 @@
+"example","mean_abs_local_prediction_diff","sup_abs_local_prediction_diff","abs_par1_diff","abs_par2_diff","abs_par3_diff","abs_par4_diff","abs_exact_criterion_diff","rel_exact_criterion_diff_pct"
+"example1_clayton",2.25829573371723e-06,2.78782643594322e-05,5.13009684732779e-09,9.67302798748904e-07,2.63560339863744e-06,1.39807553459215e-06,6.6368635600611e-06,4.18081922466583e-06
+"example2_factorcopula",3.79066354204739e-07,1.85537750283515e-05,1.76548528463272e-07,4.91098983701477e-08,NA,NA,1.11008193925954e-05,3.316928807326e-08
