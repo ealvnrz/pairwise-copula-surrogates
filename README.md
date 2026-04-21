@@ -123,9 +123,6 @@ Representative outputs include:
 - clipping, derivative, and reference-depth diagnostics;
 - factor-copula refinement, benchmarking, and reuse summaries.
 
-The repository already ships precomputed outputs so the workflows can be
-inspected without rerunning the full pipeline from scratch.
-
 ## Precomputed reproducibility assets
 
 The repository ships precomputed outputs so that the workflows can be inspected
@@ -161,9 +158,7 @@ Run only the core workflows:
 Rscript run_pipeline.R core
 ```
 
-## Reproducibility notes
 
-- The current workflows use simulated data and the precomputed outputs already
   distributed under `results/`.
 - The free-shape stress workflow currently relies on precomputed stress-fit
   objects distributed under `results/objects/`.
