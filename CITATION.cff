@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or reproducibility archive, please cite it as below."
+title: "Pairwise Copula Surrogates: reproducibility repository for Structured Local Surrogates for Copula-Induced Pairwise Composite Likelihoods"
+version: "1.0.0-submission"
+type: software
+license: "CC0-1.0"
+authors:
+  - family-names: "Alvarado"
+    given-names: "Eloy"
+    affiliation: "Pontificia Universidad Católica de Chile"
+  - family-names: "Araya"
+    given-names: "Héctor"
+    affiliation: "Universidad Adolfo Ibáñez"
+  - family-names: "Plaza-Vega"
+    given-names: "Francisco"
+    affiliation: "Universidad de Santiago de Chile"
+abstract: "R code, workflows, processed outputs, and reproducibility materials for the manuscript Structured Local Surrogates for Copula-Induced Pairwise Composite Likelihoods."
+keywords:
+  - composite likelihood
+  - copula models
+  - deterministic surrogates
+  - statistical computing
+  - spline approximation
+  - Chebyshev approximation
